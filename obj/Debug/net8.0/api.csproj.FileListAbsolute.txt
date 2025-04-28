@@ -168,3 +168,7 @@
 /home/sid2602/Desktop/c#/api/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
 /home/sid2602/Desktop/c#/api/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /home/sid2602/Desktop/c#/api/obj/Debug/net8.0/api.sourcelink.json
+/home/sid2602/Desktop/c#/api/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/sid2602/Desktop/c#/api/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/sid2602/Desktop/c#/api/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/sid2602/Desktop/c#/api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
