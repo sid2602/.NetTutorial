@@ -172,3 +172,5 @@
 /home/sid2602/Desktop/c#/api/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /home/sid2602/Desktop/c#/api/bin/Debug/net8.0/Newtonsoft.Json.dll
 /home/sid2602/Desktop/c#/api/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/home/sid2602/Desktop/c#/api/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/sid2602/Desktop/c#/api/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
